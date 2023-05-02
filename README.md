@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Meenakshi-Sivakumar/Meenakshi-Sivakumar/main/banner/Screenshot-1.webp)
+![](https://raw.githubusercontent.com/Meenakshi-Sivakumar/Meenakshi-Sivakumar/main/banner/here.png)
 <h1 align="center">Hi 👋, I'm Meenakshi Sivakumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
