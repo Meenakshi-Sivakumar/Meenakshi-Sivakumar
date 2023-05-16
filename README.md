@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/Meenakshi-Sivakumar/Meenakshi-Sivakumar/main/banner/here.png)
-<h1 align="center">Hi 👋, I'm Meenakshi Sivakumar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="center"> I'm Meenakshi Sivakumar</h1>
+<h3 align="center">A passionate frontend developer.</h3>
 
 - 🔭 I’m currently working on **React JS projects**
 
