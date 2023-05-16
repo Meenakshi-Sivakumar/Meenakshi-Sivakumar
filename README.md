@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Meenakshi Sivakumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **React JS project -> DecideForME App**
+- 🔭 I’m currently working on **React JS projects**
 
 - 🌱 I’m currently learning **React JS, TailWind.**
 
